@@ -2,7 +2,8 @@
 
 
 
-<img width="580" height="886" alt="image" src="https://github.com/user-attachments/assets/7de7338c-f99d-4f63-8254-f628aef09413" />
+<img width="290" height="443" alt="KakaoTalk_20260318_231608803" src="https://github.com/user-attachments/assets/62e39c1f-8314-4005-9710-792863b7cab4" />
+
 
 
 
@@ -43,7 +44,11 @@ Zynq-7015 보드를 활용하였으며, 복잡한 순차회로로 설계 후 FSM
 
 
 
-https://github.com/user-attachments/assets/7234b53a-2e94-4894-9c2a-256ebb5d9bb6
+
+
+https://github.com/user-attachments/assets/15651775-1cba-4f90-a9e2-eb71f6670a50
+
+
 
 
 
