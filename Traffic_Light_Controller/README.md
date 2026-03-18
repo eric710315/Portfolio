@@ -8,6 +8,7 @@ software code : https://colab.research.google.com/drive/1AAwphIjrhSx4UKOWA7Uh_FR
 
 ## 📌 Project Overview
 본 프로젝트는 **4거리 교차로 신호등 제어기 설계** 임
+
 Zynq-7015 보드를 활용하였으며, 복잡한 순차회로로 설계 후 FSM으로 재설계함
 
 ## ⚙️ Key Features
