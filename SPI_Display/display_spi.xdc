@@ -1,0 +1,8 @@
+set_property -dict { PACKAGE_PIN Y14  IOSTANDARD LVCMOS33 } [get_ports {clk}]
+create_clock -period 20.000 -name clk [get_ports clk]
+set_property -dict { PACKAGE_PIN AB12 IOSTANDARD LVCMOS33 } [get_ports {reset_n}]
+set_property -dict { PACKAGE_PIN Y13  IOSTANDARD LVCMOS33 } [get_ports {o_scl}]
+set_property -dict { PACKAGE_PIN P2   IOSTANDARD LVCMOS33 } [get_ports {o_sda}]
+set_property -dict { PACKAGE_PIN M7   IOSTANDARD LVCMOS33 } [get_ports {o_res}]
+set_property -dict { PACKAGE_PIN M3   IOSTANDARD LVCMOS33 } [get_ports {o_dc}]
+set_property -dict { PACKAGE_PIN P8   IOSTANDARD LVCMOS33 } [get_ports {o_cs}]
